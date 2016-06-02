@@ -1,0 +1,2 @@
+0.019 BYPASS - 172.18.0.1 - - [02/Jun/2016:09:41:17 +0000] "GET / HTTP/1.1" 302 5 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:46.0) Gecko/20100101 Firefox/46.0" "-"
+0.224 - - 172.18.0.1 - - [02/Jun/2016:09:41:18 +0000] "GET /wp-admin/setup-config.php HTTP/1.1" 200 1444 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:46.0) Gecko/20100101 Firefox/46.0" "-"
